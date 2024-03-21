@@ -100,7 +100,7 @@ print(f'Greatest Decrease in Profits: {decrease["date"]} (${decrease["amount"]})
 
 
 # Create an output text file to export the Analysis results and set the path
-output = os.path.join("Analysis", "budget_analysis.txt")
+output = os.path.join("Analysis", "PyBank_results.txt")
 
 # Open the file using "write" mode and write the required results
 with open(output, 'w') as datafile:
