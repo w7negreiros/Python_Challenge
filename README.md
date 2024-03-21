@@ -21,11 +21,17 @@ Your analysis should align with the following results:
 Financial Analysis
 ----------------------------
 Total Months: 86
+----------------------------
 Total: $22564198
+----------------------------
 Average Change: $-8311.11
+----------------------------
 Greatest Increase in Profits: Aug-16 ($1862002)
+----------------------------
 Greatest Decrease in Profits: Feb-14 ($-1825558)
+----------------------------
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+----------------------------
 
 # PyPoll Instructions
 
@@ -50,14 +56,15 @@ Election Results
 Total Votes: 369711
 -------------------------
 Charles Casper Stockham: 23.049% (85213)
+-------------------------
 Diana DeGette: 73.812% (272892)
+-------------------------
 Raymon Anthony Doane: 3.139% (11606)
 -------------------------
 Winner: Diana DeGette
 -------------------------
-
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
-
+-------------------------
 # Hints and Considerations
 
 Consider what you've learned so far. You've learned how to import modules like csv. You’ve learned how to read and write files in various formats. You’ve learned how to store content in variables, lists, and dictionaries. You’ve learned how to iterate through basic data structures. And you’ve learned how to debug along the way. Using all that you've learned, try to break down your tasks into discrete mini-objectives.
